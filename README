@@ -1,0 +1,5 @@
+Get a prefixed stream of tweets to stdout.
+
+twitter-pipe.sh <timeout> <twitter name> <n-tweets>
+
+Depends on: timeout, rsstail, awk
